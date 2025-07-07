@@ -31,3 +31,6 @@ Random Forest
 K-Nearest Neighbors (KNN)
 
 Computer Vision (OpenCV)
+
+
+REFER PLANT VILLAGE DATASET FROM KAGGLE
